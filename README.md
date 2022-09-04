@@ -1,5 +1,5 @@
 # Pokemon-Java
-<img src="thumbnail.PNG" width="128"/>
+<img src="thumbnail.PNG" width="384"/>
 
 
 Terminal-based ASCII Pokémon Game
