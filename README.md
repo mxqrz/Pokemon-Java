@@ -1,5 +1,6 @@
 # Pokemon-Java
-![Screenshot of main menu in terminal :)](thumbnail.PNG?width=250px)
+<img src="thumbnail.PNG" width="128"/>
+
 
 Terminal-based ASCII Pokémon Game
 
